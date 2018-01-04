@@ -1,0 +1,50 @@
+body {
+  background-color: #252830 !important;
+}
+
+.navbar-brand{
+  color: white;
+  font-size: 1.3em;
+}
+
+.navbar-brand i{
+  margin-right: 8px;
+  font-size: 1.4em;
+}
+.custom-navbar {
+  background-color: #1a1c22 !important;
+}
+.custom-list-group{
+  margin-left: -15px;
+}
+.custom-list-group .list-group-item:first-child, .custom-list-group .list-group-item:last-child{
+  border-radius: 0;
+}
+.custom-list-group>a {
+  background-color: #273a4a;
+  border: 1px solid #434857;
+  color: #cfd2da;
+}
+
+h5.list-group-item{
+  background-color: #5c676f;
+  color: white;
+}
+.custom-list-group a.active {
+  color: #fff;
+  background-color: #434857;
+  border: 1px solid #616571;
+}
+
+.custom-list-group a:hover, .custom-list-group a:focus {
+  color: #fff;
+  background-color: #434857;
+  border: 1px solid #616571;
+}
+.book-detail{
+  margin-top: 20px;
+  color: white;
+}
+hr{
+  border-color: white;
+}
